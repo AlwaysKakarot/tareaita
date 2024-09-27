@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #ce1919;
+}
+
+#pokemon {
+    width: 100px;
+    height: 100px;
+    background-image: url('https://www.icegif.com/wp-content/uploads/2022/01/icegif-498.gif');
+    background-size: cover;
+    position: absolute;
+}
